@@ -1,0 +1,17 @@
+# Compiled binaries and build artifacts
+build/
+*.bin
+*.hex
+*.elf
+*.o
+*.d
+
+# IDE configurations
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# OS specific
+.DS_Store
+Thumbs.db
